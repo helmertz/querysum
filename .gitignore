@@ -1,0 +1,7 @@
+# Compiled Python
+*.pyc
+
+# PyCharm project
+.idea
+
+output
